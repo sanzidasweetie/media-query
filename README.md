@@ -1,2 +1,2 @@
 # media-query
-bootstarp
+https://sanzidasweetie.github.io/media-query/
